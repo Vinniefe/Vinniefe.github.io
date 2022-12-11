@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Vinnie-Fe-Mocoy/vinniefe.github.io/precache-manifest.66cefc0e2e8dde403023196ea8eb1f3c.js"
+  "/Vinnie-Fe-Mocoy/vinniefe.github.io/precache-manifest.508e3480b37ec65d4db64ddd8ce077c1.js"
 );
 
 workbox.clientsClaim();
